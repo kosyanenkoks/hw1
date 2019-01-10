@@ -19,7 +19,12 @@ html {
     padding: 20px;
 }
 
-p {
+div {
+    margin-bottom: 30px;
+}
+
+p,
+h3 {
     margin-bottom: 20px;
 }
 
@@ -27,5 +32,4 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
-    border: 0;
 }
